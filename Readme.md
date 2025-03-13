@@ -213,3 +213,9 @@
 ## CSharpMenuTest
 
 + 使用C#测试完全异步模式添加菜单
+
+## clean.vbs clean.ps1 Purge
+
++ 清除当前文件夹旧版本的vbs、PowerShell、VB6的实现
++ VB6循环递归删除子文件夹的旧版本
++ clean.vbs clean.ps1拷贝到当前文件夹运行删除
